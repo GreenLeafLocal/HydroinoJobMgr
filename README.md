@@ -4,7 +4,7 @@ This library provides functions to control a GreenLeafLocal OpenFarms grow enclo
 
 ## Installation
 
-1. Download this library from [GitHub](actual link to the library) or clone the repository using the following command: `git clone actual repository URL`.
+1. Download this library from [GitHub](https://github.com/GreenLeafLocal/HydroinoJobMgr) or clone the repository using the following command: `git clone actual repository URL`.
 2. In the Arduino IDE, go to Sketch > Include Library > Add .ZIP Library.
 
 ## Dependencies
