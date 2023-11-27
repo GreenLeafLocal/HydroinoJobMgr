@@ -1,0 +1,29 @@
+#######################################
+# Classes
+#######################################
+HydroinoJobMgr	KEYWORD1
+ReadAirHumidity	KEYWORD1
+ReadAirTemp	KEYWORD1
+ReadMoisture	KEYWORD1
+RunDevice	KEYWORD1
+RunFan	KEYWORD1
+RunServo	KEYWORD1
+
+#######################################
+# Methods
+#######################################
+DequeueJobAtIndex	KEYWORD2
+EnqueueJob	KEYWORD2
+GetJobQueue	KEYWORD2
+GetJobQueueMaxLength	KEYWORD2
+ProcessJobQueue	KEYWORD2
+Start	KEYWORD2
+Stop	KEYWORD2
+Update	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+JobStatusEnum	KEYWORD3
+JobTypeEnum	KEYWORD3
+QUEUE_LEN	KEYWORD3
